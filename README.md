@@ -60,11 +60,3 @@ The main data ledger table structured with database constraint safety.
 
 ---
 
-## 🏁 Local Installation & Quickstart Blueprint
-
-Run these commands in your Windows Command Prompt to clone and execute this repository locally:
-
-### 1. Clone the Source Repository
-```cmd
-git clone [https://github.com/nosmasivala-ui/Expense_Tracker.git](https://github.com/nosmasivala-ui/Expense_Tracker.git)
-cd Expense_Tracker
